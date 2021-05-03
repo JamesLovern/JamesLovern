@@ -15,16 +15,16 @@
 ---
 
 ### Languages
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge) 
+![](https://img.shields.io/badge/-Python-FFB4A2?logo=python&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/-JavaScript-FFB4A2?logo=javascript&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/-TypeScript-FFB4A2?logo=typescript&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/-NodeJS-FFB4A2?logo=node.js&logoColor=black&style=for-the-badge) 
 
 ### Frameworks
-![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-Express-E5989B?logo=express&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Next.js-E5989B?logo=next.js&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-React-E5989B?logo=react&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Tailwind%20CSS-E5989B?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 ### Hosting
-![](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge) 
+![](https://img.shields.io/badge/-DigitalOcean-B5838D?logo=digitalocean&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Firebase-B5838D?logo=firebase&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Heroku-B5838D?logo=heroku&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Vercel-B5838D?logo=vercel&logoColor=white&style=for-the-badge) 
 
 ### Databases
-![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-MongoDB-6D6875?logo=mongodb&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-MySQL-6D6875?logo=mysql&logoColor=white&style=for-the-badge)
 
 
 
