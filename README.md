@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/-DigitalOcean-3B6064?logo=digitalocean&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Firebase-3B6064?logo=firebase&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Heroku-3B6064?logo=heroku&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-Vercel-3B6064?logo=vercel&logoColor=white&style=for-the-badge) 
 
 ### Databases
-![](https://img.shields.io/badge/-MongoDB-364958?logo=mongodb&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-MySQL-364958?logo=mysql&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-MongoDB-364958?logo=mongodb&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-PostgreSQL-364958?logo=postgresql&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/-MySQL-364958?logo=mysql&logoColor=white&style=for-the-badge)
 
 
 
