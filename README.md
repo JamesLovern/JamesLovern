@@ -2,7 +2,7 @@
 <h2 align="center">👋 ~ Hey there, I'm James!</h2>
 <p align="center">
   <a href="https://lovern.io/">Portfolio</a> •
-  <a href="https://twitter.com/__jameslovern">Twitter</a> •
+  <a href="https://twitter.com/_jameslovern">Twitter</a> •
   <a href="https://keybase.io/JamesLovern">Keybase</a>
 </p>
 
