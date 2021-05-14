@@ -45,4 +45,4 @@ HTML         8 mins          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 **🎶 ~ What I'm listening to:**
 <br>
-[![Spotify](https://spotify-readme-stats.jazzzihd.vercel.app/api/spotify)](https://open.spotify.com/user/james.lovern)
+[![Spotify](https://spotify.lovern.io/api/spotify)](https://open.spotify.com/user/james.lovern)
