@@ -43,6 +43,6 @@ JSON         6 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-**🎶 ~ What I'm listening to:**
+**🎶 ~ Spotify Info:**
 <br>
 [![Spotify](https://spotify.lovern.io/api/spotify)](https://open.spotify.com/user/james.lovern)
